@@ -1,1 +1,2 @@
-# Expanding-Cards_Vanilla-Javascript
+# Expanding Images Cards in Vanilla-Javascript
+
